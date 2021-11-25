@@ -11,7 +11,7 @@ $Signature = @'
 # Add-Type compiles the source code and adds the type [PsOneApi.Keyboard]:
 Add-Type -MemberDefinition $Signature -Name Keyboard -Namespace PsOneApi
     
-Write-Host "Press VolumeUp Key to Lock the computer!"
+Write-Host "Press Selfie Key to Lock the computer!"
 ##Start-Sleep -Seconds 3
 
 # the public static method GetAsyncKeyState() is now availabe from
