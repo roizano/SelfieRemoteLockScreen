@@ -10,4 +10,5 @@ Infinite loop locking the windows - looking for Selfie press button (in this cas
 
 Place the file of the sound at C:\Sound\
 
+follow the link to see right key pressed: http://www.kbdedit.com/manual/low_level_vk_list.html
 
